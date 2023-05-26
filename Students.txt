@@ -1,0 +1,5 @@
+72030670	Ousama Abou Khalil	B.E	Computer Engineering
+72030678	Shadi Abou Khalil	B.E	Biology
+72258952	Hashem Shible	B.E	C-S
+71200225	Ali Hissi	B.E	Computer Eng
+71200255	Ali Abou Khalil	B.E	C-S

@@ -1,0 +1,6 @@
+CENG-2	Clean Code	Robert C. Martin	9
+S-H1	Atomic Habits	James Clear	12
+PHY-1	A Brief History of Time	Stephen Hawking	10
+NOVEL-1	Beloved	Toni Morrison	19
+Novel-2	The Fault in Our Stars	John Green	26
+CS-1	The Self-Taught Programmer	Cory Althoff	100
