@@ -24,45 +24,47 @@ To run the application, you need to have the following installed on your machine
 
 GUI:
 
-Sign up:
+- Sign up:
 
 ![signUp](https://github.com/OusamaAbouKhalil/LibraryManagmentSystem/assets/131563820/67ed3194-851a-4af3-aaab-5f1a86ad4068)
 
-SignIn:
+- SignIn:
 
 ![signIn](https://github.com/OusamaAbouKhalil/LibraryManagmentSystem/assets/131563820/a31aa925-74c0-470c-8942-9703f9824671)
 
-Dashboard:
+- Dashboard:
 
 ![Dashboard](https://github.com/OusamaAbouKhalil/LibraryManagmentSystem/assets/131563820/953a548c-a208-47c0-935b-11a1b39c282f)
 
-Manage Books:
+- Manage Books:
 
 ![Manage Books](https://github.com/OusamaAbouKhalil/LibraryManagmentSystem/assets/131563820/791d036e-e1ca-49d3-a7c0-dd83ee7e3c80)
 
-Manage Students:
+- Manage Students:
 
 ![Manage students](https://github.com/OusamaAbouKhalil/LibraryManagmentSystem/assets/131563820/74d0b1fb-4c81-4c10-93bc-1802abeedc1b)
 
-Manage Upcoming books:
+- Manage Upcoming books:
 
 ![Manage upcomig books](https://github.com/OusamaAbouKhalil/LibraryManagmentSystem/assets/131563820/5bdb5270-7561-4493-a94c-5fe5f1973484)
 
-Return Book:
+- Return Book:
 
 ![ReturnBook](https://github.com/OusamaAbouKhalil/LibraryManagmentSystem/assets/131563820/a9f5da24-bbca-4d56-a166-a42431383bb4)
 
-Issue Book:
+- Issue Book:
 
 ![IssueBook](https://github.com/OusamaAbouKhalil/LibraryManagmentSystem/assets/131563820/922eb701-d2af-49dc-b116-6ab1c3cfb84e)
 
-View Issued Books:
+- View Issued Books:
 
 ![View IssuedBook](https://github.com/OusamaAbouKhalil/LibraryManagmentSystem/assets/131563820/95b64763-28c9-4fdf-9527-37de995b6912)
 
-View returned Book:
+- View returned Book:
 
 ![ViewReturnedBook](https://github.com/OusamaAbouKhalil/LibraryManagmentSystem/assets/131563820/3eb9ffd1-df64-4c53-b280-9698ca4752d5)
 
-Contact
-If you have any questions, suggestions, or feedback, please feel free to contact me at OusamaAbouKhalil@gmail.com or using my website OusamaAbouKhalil.me .
+-Contact
+
+If you have any questions, suggestions, or feedback, please feel free to contact me at OusamaAbouKhalil@gmail.com 
+or using my website OusamaAbouKhalil.me .
