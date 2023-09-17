@@ -9,7 +9,7 @@ import javax.swing.table.DefaultTableModel;
 
 /**
  *
- * @author abokh
+ * @author OusamaAk
  */
 public class ComingSoon extends javax.swing.JFrame {
 
